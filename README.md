@@ -23,7 +23,7 @@
   ##
  
 <div>
-  <img align="right" alt="Rafa-Anime" height="290" width="290" src="https://i.pinimg.com/originals/c3/fa/32/c3fa3272fc631e803fcb7e71399565b8.gif">
+  <img align="right" alt="Rafa-Anime" src="https://i.pinimg.com/originals/98/92/28/989228edbbf7d19770d24eb28018eaeb.gif">
   <a href="https://www.facebook.com/lniilisl/" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/lniilisl" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://twitter.com/lniilisl" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
