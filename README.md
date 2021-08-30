@@ -1,4 +1,4 @@
-## Hello!! I am Rafael Augusto
+## 👾Hello!! I am Rafael Augusto👾
 
  <div>
   <a href="https://github.com/lniilisl">
@@ -6,8 +6,8 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lniilisl&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
-  ## Technologies used
-  
+  ## 👾Technologies used👾
+ 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
@@ -23,7 +23,7 @@
   ##
  
 <div>
-  <img align="right" alt="Rafa-Anime" height="148" width="128" src="https://i.pinimg.com/originals/24/be/9c/24be9c8a3f8f9c7ee38e7a37e7ba7243.gif">
+  <img align="right" alt="Rafa-Anime-cute" height="148" width="128" src="https://i.pinimg.com/originals/24/be/9c/24be9c8a3f8f9c7ee38e7a37e7ba7243.gif">
   <a href="https://www.facebook.com/lniilisl/" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/lniilisl" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://twitter.com/lniilisl" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
@@ -33,5 +33,13 @@
 
  
   ![Snake animation](https://github.com/lniilisl/lniilisl/blob/output/github-contribution-grid-snake.svg)
+</div>
  
+<div>
+   <img align="left" alt="Rafa-SpaceVanders" height="148" width="128" src="https://media3.giphy.com/media/wogIubFweiBkn6y8KU/source.gif">
+   <img align="left" alt="Rafa-SpaceVanders" height="148" width="128" src="https://media3.giphy.com/media/wogIubFweiBkn6y8KU/source.gif">
+   <img align="left" alt="Rafa-SpaceVanders" height="148" width="128" src="https://media3.giphy.com/media/wogIubFweiBkn6y8KU/source.gif">
+   <img align="left" alt="Rafa-SpaceVanders" height="148" width="128" src="https://media3.giphy.com/media/wogIubFweiBkn6y8KU/source.gif">
+   <img align="left" alt="Rafa-SpaceVanders" height="148" width="128" src="https://media3.giphy.com/media/wogIubFweiBkn6y8KU/source.gif">
+   <img align="left" alt="Rafa-SpaceVanders" height="148" width="128" src="https://media3.giphy.com/media/wogIubFweiBkn6y8KU/source.gif">
 </div>
