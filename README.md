@@ -19,10 +19,6 @@
   <img align="center" alt="Rafa-Nodejs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Rafa-Mongodb" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-plain.svg">
 </div>
-  
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
  
   ##
  
@@ -50,3 +46,5 @@
 
 
 </div>
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
