@@ -16,13 +16,13 @@ jobs:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           SHOW_TITLE: true
           SHOW_LINES_OF_CODE: true
-          SHOW_PROFILE_VIEWS: false
-          SHOW_COMMIT: false
-          SHOW_DAYS_OF_WEEK: false
-          SHOW_OS: false
-          SHOW_PROJECTS: false
+          SHOW_PROFILE_VIEWS: true
+          SHOW_COMMIT: true
+          SHOW_DAYS_OF_WEEK: true
+          SHOW_OS: true
+          SHOW_PROJECTS: true
           SHOW_LANGUAGE_PER_REPO: true
-          SHOW_TIMEZONE: false
-          SHOW_LOC_CHART: false
+          SHOW_TIMEZONE: true
+          SHOW_LOC_CHART: true
           COMMIT_MESSAGE: Updated the Readme
           BLOCKS: ⣀⣄⣤⣦⣶⣷⣿
