@@ -27,15 +27,15 @@
 
 **🐱 My Github Data** 
 
-> 🏆 46 Contributions in the Year 2021
+> 🏆 47 Contributions in the Year 2021
  > 
-> 📦 500 Bytes Used in Github's Storage 
+> 📦 517 Bytes Used in Github's Storage 
  > 
 > 💼 Opted to Hire
  > 
 > 📜 2 Public Repositories 
  > 
-> 🔑 0 Private Repositories  
+> 🔑 1 Private Repository 
  > 
 **I'm an Early 🐤** 
 
@@ -92,7 +92,7 @@ JavaScript               1 repo              ███████████�
 ![Chart not found](https://raw.githubusercontent.com/lniilisl/lniilisl/main/charts/bar_graph.png) 
 
 
- Last Updated on 19/09/2021
+ Last Updated on 20/09/2021
 <!--END_SECTION:waka-->
 
   ##
