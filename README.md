@@ -66,20 +66,16 @@ Sunday       1 commits      ░░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-JavaScript               1 hr 10 mins        █████████████████░░░░░░░░   69.02% 
-JSX                      30 mins             ███████░░░░░░░░░░░░░░░░░░   29.86% 
-Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.44% 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.36% 
-CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.19%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  1 hr 42 mins        █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-mega-sena                1 hr 42 mins        █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    1 hr 42 mins        █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -96,7 +92,7 @@ JavaScript               1 repo              ███████████�
 ![Chart not found](https://raw.githubusercontent.com/lniilisl/lniilisl/main/charts/bar_graph.png) 
 
 
- Last Updated on 10/11/2021
+ Last Updated on 11/11/2021
 <!--END_SECTION:waka-->
 
   ##
