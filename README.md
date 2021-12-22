@@ -21,7 +21,7 @@
 </div>
  
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-13%20hrs%2033%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-17%20hrs%2029%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -68,16 +68,18 @@ Sunday       1 commits      ░░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+CSS                      2 hrs 26 mins       ███████████████░░░░░░░░░░   63.14% 
+HTML                     1 hr 25 mins        █████████░░░░░░░░░░░░░░░░   36.79% 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.07%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  3 hrs 52 mins       █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+VScode                   3 hrs 52 mins       █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  3 hrs 52 mins       █████████████████████████   100.0%
 
 ```
 
@@ -96,7 +98,7 @@ CSS                      1 repo              ████████░░░�
 ![Chart not found](https://raw.githubusercontent.com/lniilisl/lniilisl/main/charts/bar_graph.png) 
 
 
- Last Updated on 20/12/2021
+ Last Updated on 22/12/2021
 <!--END_SECTION:waka-->
 
   ##
