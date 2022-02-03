@@ -21,7 +21,7 @@
 </div>
  
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-17%20hrs%2030%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-17%20hrs%2053%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -96,7 +96,7 @@ CSS                      1 repo              ████████░░░�
 ![Chart not found](https://raw.githubusercontent.com/lniilisl/lniilisl/main/charts/bar_graph.png) 
 
 
- Last Updated on 02/02/2022 18:41:28 UTC
+ Last Updated on 03/02/2022 18:41:49 UTC
 <!--END_SECTION:waka-->
 
   ##
