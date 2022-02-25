@@ -68,18 +68,16 @@ Sunday       1 commits      ░░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-CSS                      31 mins             █████████████████░░░░░░░░   68.9% 
-HTML                     13 mins             ███████░░░░░░░░░░░░░░░░░░   30.08% 
-XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.02%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  45 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Unknown Project          45 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  45 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -98,7 +96,7 @@ CSS                      1 repo              ████████░░░�
 ![Chart not found](https://raw.githubusercontent.com/lniilisl/lniilisl/main/charts/bar_graph.png) 
 
 
- Last Updated on 24/02/2022 18:43:06 UTC
+ Last Updated on 25/02/2022 18:42:15 UTC
 <!--END_SECTION:waka-->
 
   ##
