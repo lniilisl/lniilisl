@@ -68,19 +68,16 @@ Sunday       0 commits      ░░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-CSS                      3 hrs 4 mins        ██████████████████░░░░░░░   72.21% 
-HTML                     1 hr 10 mins        ███████░░░░░░░░░░░░░░░░░░   27.79%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  4 hrs 14 mins       █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-LoginInstagram           3 hrs 28 mins       ████████████████████░░░░░   81.99% 
-agencyBold               39 mins             ███░░░░░░░░░░░░░░░░░░░░░░   15.42% 
-Login Animated           6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.59%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  4 hrs 14 mins       █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -100,7 +97,7 @@ HTML                     1 repo              █████░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/RafaSouzaReis/RafaSouzaReis/main/charts/bar_graph.png) 
 
 
- Last Updated on 15/04/2022 18:46:42 UTC
+ Last Updated on 18/04/2022 18:46:52 UTC
 <!--END_SECTION:waka-->
 
   ##
