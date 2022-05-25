@@ -21,7 +21,7 @@
 </div>
  
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-52%20hrs%2022%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-52%20hrs%2029%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -68,16 +68,18 @@ Sunday       0 commits      ░░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+ANTLR v4 grammar file    4 mins              █████████████░░░░░░░░░░░░   53.91% 
+Java                     3 mins              ███████████░░░░░░░░░░░░░░   46.09%
 
 🔥 Editors: 
-No Activity Tracked This Week
+IntelliJ                 7 mins              █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+shadow                   4 mins              █████████████░░░░░░░░░░░░   53.91% 
+Pong                     3 mins              ███████████░░░░░░░░░░░░░░   46.09%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  7 mins              █████████████████████████   100.0%
 
 ```
 
@@ -97,7 +99,7 @@ HTML                     1 repo              █████░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/RafaSouzaReis/RafaSouzaReis/main/charts/bar_graph.png) 
 
 
- Last Updated on 23/05/2022 18:47:10 UTC
+ Last Updated on 25/05/2022 18:46:38 UTC
 <!--END_SECTION:waka-->
 
   ##
