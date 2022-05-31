@@ -68,18 +68,16 @@ Sunday       0 commits      ░░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-ANTLR v4 grammar file    4 mins              █████████████░░░░░░░░░░░░   53.91% 
-Java                     3 mins              ███████████░░░░░░░░░░░░░░   46.09%
+No Activity Tracked This Week
 
 🔥 Editors: 
-IntelliJ                 7 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-shadow                   4 mins              █████████████░░░░░░░░░░░░   53.91% 
-Pong                     3 mins              ███████████░░░░░░░░░░░░░░   46.09%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  7 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -99,7 +97,7 @@ HTML                     1 repo              █████░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/RafaSouzaReis/RafaSouzaReis/main/charts/bar_graph.png) 
 
 
- Last Updated on 30/05/2022 18:46:22 UTC
+ Last Updated on 31/05/2022 18:47:12 UTC
 <!--END_SECTION:waka-->
 
   ##
