@@ -21,7 +21,7 @@
 </div>
  
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-56%20hrs%2030%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-56%20hrs%2050%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -106,7 +106,7 @@ HTML                     1 repo              █████░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/RafaSouzaReis/RafaSouzaReis/main/charts/bar_graph.png) 
 
 
- Last Updated on 05/06/2022 18:42:07 UTC
+ Last Updated on 06/06/2022 18:44:20 UTC
 <!--END_SECTION:waka-->
 
   ##
