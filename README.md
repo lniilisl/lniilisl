@@ -68,18 +68,16 @@ Sunday       0 commits      ░░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-JavaScript               58 mins             ██████████░░░░░░░░░░░░░░░   41.65% 
-CSS                      53 mins             █████████░░░░░░░░░░░░░░░░   37.73% 
-HTML                     29 mins             █████░░░░░░░░░░░░░░░░░░░░   20.62%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  2 hrs 20 mins       █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-tcc                      2 hrs 20 mins       █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  2 hrs 20 mins       █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -99,7 +97,7 @@ HTML                     1 repo              ████░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/RafaSouzaReis/RafaSouzaReis/main/charts/bar_graph.png) 
 
 
- Last Updated on 06/11/2022 18:43:55 UTC
+ Last Updated on 07/11/2022 18:44:40 UTC
 <!--END_SECTION:waka-->
 
   ##
