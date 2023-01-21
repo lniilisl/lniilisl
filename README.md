@@ -68,16 +68,16 @@ Sunday       1 commits      ░░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-HTML                     1 min               █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  1 min               █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Documentos               1 min               █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    1 min               █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -98,7 +98,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/RafaSouzaReis/RafaSouzaReis/main/charts/bar_graph.png) 
 
 
- Last Updated on 20/01/2023 18:39:42 UTC
+ Last Updated on 21/01/2023 18:36:29 UTC
 <!--END_SECTION:waka-->
 
   ##
