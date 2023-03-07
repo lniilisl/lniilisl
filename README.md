@@ -29,7 +29,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 65.1 kB Used in GitHub's Storage 
+> 📦 65.0 kB Used in GitHub's Storage 
  > 
 > 🏆 26 Contributions in the Year 2023
  > 
@@ -95,7 +95,7 @@ HTML                     1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/RafaSouzaReis/RafaSouzaReis/main/assets/bar_graph.png)
 
 
- Last Updated on 06/03/2023 18:39:46 UTC
+ Last Updated on 07/03/2023 18:39:09 UTC
 <!--END_SECTION:waka-->
 
   ##
