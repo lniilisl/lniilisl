@@ -21,9 +21,9 @@
 </div>
  
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-120%20hrs%2015%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-120%20hrs%2048%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-53-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-43.9%20thousand%20lines%20of%20code-blue)
 
@@ -66,16 +66,21 @@ Sunday                   1 commits           █░░░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               12 mins             █████████░░░░░░░░░░░░░░░░   35.87 % 
+JSON                     7 mins              ██████░░░░░░░░░░░░░░░░░░░   22.70 % 
+CSS                      4 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.87 % 
+INI                      3 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.27 % 
+HTML                     2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.63 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  33 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Discord                  26 mins             ████████████████████░░░░░   78.13 % 
+LoginInstagram-main      7 mins              █████░░░░░░░░░░░░░░░░░░░░   21.87 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  33 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -95,7 +100,7 @@ HTML                     1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/RafaSouzaReis/RafaSouzaReis/main/assets/bar_graph.png)
 
 
- Last Updated on 11/07/2023 18:37:07 UTC
+ Last Updated on 12/07/2023 18:37:37 UTC
 <!--END_SECTION:waka-->
 
   ##
