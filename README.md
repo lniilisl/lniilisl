@@ -21,7 +21,7 @@
 </div>
  
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-131%20hrs%207%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-131%20hrs%2032%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -29,7 +29,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 65.3 kB Used in GitHub's Storage 
+> 📦 65.1 kB Used in GitHub's Storage 
  > 
 > 🏆 27 Contributions in the Year 2023
  > 
@@ -66,26 +66,26 @@ Sunday                   1 commits           █░░░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               21 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  21 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+bot-discord              21 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    21 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               6 repos             █████████░░░░░░░░░░░░░░░░   37.50 % 
-CSS                      4 repos             ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
-Python                   3 repos             █████░░░░░░░░░░░░░░░░░░░░   18.75 % 
-Java                     2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
-HTML                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
+JavaScript               5 repos             ████████░░░░░░░░░░░░░░░░░   33.33 % 
+CSS                      4 repos             ███████░░░░░░░░░░░░░░░░░░   26.67 % 
+Python                   3 repos             █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
+Java                     2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.33 % 
+HTML                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
 ```
 
 
@@ -95,7 +95,7 @@ HTML                     1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/RafaSouzaReis/RafaSouzaReis/main/assets/bar_graph.png)
 
 
- Last Updated on 09/08/2023 18:35:39 UTC
+ Last Updated on 10/08/2023 18:33:23 UTC
 <!--END_SECTION:waka-->
 
   ##
