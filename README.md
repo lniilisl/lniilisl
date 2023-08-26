@@ -66,22 +66,16 @@ Sunday                   1 commits           █░░░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-HTML                     7 mins              ██████████████░░░░░░░░░░░   54.63 % 
-XML                      4 mins              ████████░░░░░░░░░░░░░░░░░   33.23 % 
-CSS                      1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   09.88 % 
-JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.58 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.68 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  13 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-anibu                    8 mins              ████████████████░░░░░░░░░   63.34 % 
-LoginInstagram-main      4 mins              █████████░░░░░░░░░░░░░░░░   36.66 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    8 mins              ████████████████░░░░░░░░░   63.34 % 
-Windows                  4 mins              █████████░░░░░░░░░░░░░░░░   36.66 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -101,7 +95,7 @@ Java                     2 repos             ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/RafaSouzaReis/RafaSouzaReis/main/assets/bar_graph.png)
 
 
- Last Updated on 25/08/2023 18:33:06 UTC
+ Last Updated on 26/08/2023 18:33:05 UTC
 <!--END_SECTION:waka-->
 
   ##
