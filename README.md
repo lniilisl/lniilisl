@@ -23,7 +23,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-137%20hrs%2036%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-9-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-43.9%20thousand%20lines%20of%20code-blue)
 
@@ -95,7 +95,7 @@ Java                     2 repos             ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/RafaSouzaReis/RafaSouzaReis/main/assets/bar_graph.png)
 
 
- Last Updated on 28/08/2023 18:33:18 UTC
+ Last Updated on 29/08/2023 18:33:32 UTC
 <!--END_SECTION:waka-->
 
   ##
