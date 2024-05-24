@@ -31,8 +31,6 @@
 
 > 📦 65.3 kB Used in GitHub's Storage 
  > 
-> 🏆 2 Contributions in the Year 2024
- > 
 > 💼 Opted to Hire
  > 
 > 📜 19 Public Repositories 
@@ -66,16 +64,21 @@ Sunday                   1 commits           █░░░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Dart                     21 mins             ████████████████░░░░░░░░░   64.32 % 
+HTML                     9 mins              ███████░░░░░░░░░░░░░░░░░░   27.95 % 
+YAML                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.88 % 
+JSON                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.74 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  33 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Code                     29 mins             ██████████████████████░░░   88.25 % 
+hello_world              3 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.75 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  33 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -95,7 +98,7 @@ Java                     2 repos             ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/RafaSouzaReis/RafaSouzaReis/main/assets/bar_graph.png)
 
 
- Last Updated on 23/05/2024 18:35:25 UTC
+ Last Updated on 24/05/2024 18:35:42 UTC
 <!--END_SECTION:waka-->
 
   ##
