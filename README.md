@@ -66,21 +66,16 @@ Sunday                   1 commits           █░░░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Dart                     21 mins             ████████████████░░░░░░░░░   64.32 % 
-HTML                     9 mins              ███████░░░░░░░░░░░░░░░░░░   27.95 % 
-YAML                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.88 % 
-JSON                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.74 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  33 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Code                     29 mins             ██████████████████████░░░   88.25 % 
-hello_world              3 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.75 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  33 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -100,7 +95,7 @@ Java                     2 repos             ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/RafaSouzaReis/RafaSouzaReis/main/assets/bar_graph.png)
 
 
- Last Updated on 30/05/2024 18:37:46 UTC
+ Last Updated on 31/05/2024 18:35:39 UTC
 <!--END_SECTION:waka-->
 
   ##
