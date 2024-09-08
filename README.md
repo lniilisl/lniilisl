@@ -39,45 +39,6 @@
  > 
 > 🔑 0 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                9 commits           █████░░░░░░░░░░░░░░░░░░░░   21.95 % 
-🌆 Daytime                25 commits          ███████████████░░░░░░░░░░   60.98 % 
-🌃 Evening                7 commits           ████░░░░░░░░░░░░░░░░░░░░░   17.07 % 
-🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday                   4 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   09.76 % 
-Tuesday                  17 commits          ██████████░░░░░░░░░░░░░░░   41.46 % 
-Wednesday                2 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   04.88 % 
-Thursday                 3 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   07.32 % 
-Friday                   13 commits          ████████░░░░░░░░░░░░░░░░░   31.71 % 
-Saturday                 1 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.44 % 
-Sunday                   1 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.44 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: America/Sao_Paulo
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -95,7 +56,7 @@ Java                     2 repos             ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/RafaSouzaReis/RafaSouzaReis/main/assets/bar_graph.png)
 
 
- Last Updated on 07/09/2024 18:38:21 UTC
+ Last Updated on 08/09/2024 18:38:48 UTC
 <!--END_SECTION:waka-->
 
   ##
