@@ -21,7 +21,7 @@
 </div>
  
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-176%20hrs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-174%20hrs%2057%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -102,7 +102,7 @@ Java                     2 repos             ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/RafaSouzaReis/RafaSouzaReis/main/assets/bar_graph.png)
 
 
- Last Updated on 19/12/2024 18:41:38 UTC
+ Last Updated on 20/12/2024 18:41:18 UTC
 <!--END_SECTION:waka-->
 
   ##
