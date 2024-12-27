@@ -31,6 +31,8 @@
 
 > 📦 65.6 kB Used in GitHub's Storage 
  > 
+> 🏆 46 Contributions in the Year 2024
+ > 
 > 💼 Opted to Hire
  > 
 > 📜 19 Public Repositories 
@@ -64,20 +66,16 @@ Sunday                   0 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-JavaScript               59 mins             ███████████████████░░░░░░   75.94 % 
-JSON                     18 mins             ██████░░░░░░░░░░░░░░░░░░░   24.06 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Cursor                   1 hr 16 mins        ████████████████████████░   98.00 % 
-VS Code                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   02.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-pancakebank              1 hr 16 mins        ████████████████████████░   98.00 % 
-clone-tabnews            1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   02.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  1 hr 16 mins        ████████████████████████░   98.00 % 
-Linux                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   02.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -97,7 +95,7 @@ Java                     2 repos             ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/RafaSouzaReis/RafaSouzaReis/main/assets/bar_graph.png)
 
 
- Last Updated on 26/12/2024 18:40:44 UTC
+ Last Updated on 27/12/2024 18:40:37 UTC
 <!--END_SECTION:waka-->
 
   ##
